@@ -29,7 +29,7 @@ To empower development teams with the tools, practices, and insights needed to m
 
 ## Get Started
 
-Interested in improving your dependency governance? Contact us at team@deptraverse.io or open an issue in this repository.
+Interested in improving your dependency governance? Contact us at 1418591636@qq.com or open an issue in this repository.
 
 ## Product experience
 
